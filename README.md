@@ -18,4 +18,4 @@ How to use
 
 Screenshot:
 
-http://fs5.directupload.net/images/161020/4kdlxi5m.png
+![Alt text1](http://fs5.directupload.net/images/161020/4kdlxi5m.png)
